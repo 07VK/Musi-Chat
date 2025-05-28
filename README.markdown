@@ -106,5 +106,5 @@ We welcome contributions to enhance Musi-Chat! To contribute:
 
 Please ensure your contributions align with the project’s goals and include clear documentation.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+To view the clear description of project file [Click here](https://www.notion.so/Musi-chat-RAG-based-Musical-Product-Recommending-QA-Bot-1dfedc93806d80699b24d624c72aa603?pvs=4)  
+To access the datasets [Click here](https://drive.google.com/drive/u/2/folders/1lKhWzSr_8UbmAqJZU3ybIjI0YMSXUxYP)
