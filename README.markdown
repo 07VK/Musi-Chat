@@ -1,6 +1,6 @@
 # Musi-Chat: RAG-Based Musical Product Recommending QA Bot
 
-![Musi-Chat Logo](link-to-logo.png) <!-- Replace with actual logo link if available -->
+![Musi-Chat Logo](pictures/logo.png) <!-- Replace with actual logo link if available -->
 
 **Musi-Chat** is a domain-constrained Retrieval-Augmented Generation (RAG) chatbot designed to enhance the e-commerce experience for musical instrument enthusiasts. By leveraging the Amazon Reviews 2023 dataset, Musi-Chat provides precise, sentiment-aware responses to user queries about musical instruments, ensuring that answers are both detailed and relevant. The chatbot is integrated into an Amazon-like front-end interface, offering an intuitive and familiar user experience.
 
@@ -12,7 +12,6 @@
 - [Usage](#usage)
 - [Known Issues](#known-issues)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Musi-Chat addresses the challenges of information overload and imprecise responses in e-commerce by providing a conversational AI tailored to musical instruments. It combines retrieval and generation techniques to deliver accurate, contextually relevant answers while gracefully handling off-topic queries. The project demonstrates the practical application of RAG in a specialized domain, setting a foundation for scalable, domain-specific chatbots in online retail.
